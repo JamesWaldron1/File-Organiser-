@@ -11,3 +11,5 @@ Google Sheets: File → Download → Comma Separated Values (.csv)
 
 Open File Organiser and select your CSV, the folder containing your files, and the root output folder
 Click Organise Files
+
+![File Organiser](assets/File%20Organiser%20image.png)
