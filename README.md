@@ -13,5 +13,5 @@ Open File Organiser and select your CSV, the folder containing your files, and t
 Click Organise Files
 
 <p align="center">
-  <img src="assets/screenshot" width="500">
+  <img src="assets/screenshot.png" width="500">
 </p>
